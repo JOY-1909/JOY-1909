@@ -26,3 +26,8 @@ Strengths:
   - Cloud Infrastructure & Automation
   - CI/CD Pipelines
   - Security & Network Analysis
+## 📚 Currently Learning
+- Advanced Machine Learning algorithms
+- MLOps fundamentals
+- Cloud-native ML deployments
+- Distributed systems basics
