@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I am a **Computer Science Engineering student** and **Machine Learning Practitioner** from 🇮🇳 India, currently serving as a **Research Intern at IISER Mohali**. With a foundation in B.Tech (2023–2027), I specialize in bridging the gap between complex research models and scalable production environments.
+I am a **Computer Science Engineering student** and **Cloud & DevOps Practitioner** from 🇮🇳 India, currently serving as a **Research Intern at IISER Mohali**. With a foundation in B.Tech (2023–2027), I specialize in bridging the gap between complex research models and scalable production environments.
 
 I am deeply passionate about building **end-to-end ML systems**—leveraging **Oracle Cloud Infrastructure** and **DevOps automation** to transform raw data into intelligent, high-availability services.
 
